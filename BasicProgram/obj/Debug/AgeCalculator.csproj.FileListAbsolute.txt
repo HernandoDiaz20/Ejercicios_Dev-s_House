@@ -1,0 +1,10 @@
+C:\DATOS\AgeCalculator\BasicProgram\bin\Debug\BasicProgram.exe.config
+C:\DATOS\AgeCalculator\BasicProgram\bin\Debug\BasicProgram.exe
+C:\DATOS\AgeCalculator\BasicProgram\bin\Debug\BasicProgram.pdb
+C:\DATOS\AgeCalculator\BasicProgram\obj\Debug\AgeCalculator.csproj.AssemblyReference.cache
+C:\DATOS\AgeCalculator\BasicProgram\obj\Debug\BasicProgram.MainForm.resources
+C:\DATOS\AgeCalculator\BasicProgram\obj\Debug\BasicProgram.Properties.Resources.resources
+C:\DATOS\AgeCalculator\BasicProgram\obj\Debug\AgeCalculator.csproj.GenerateResource.cache
+C:\DATOS\AgeCalculator\BasicProgram\obj\Debug\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\DATOS\AgeCalculator\BasicProgram\obj\Debug\BasicProgram.exe
+C:\DATOS\AgeCalculator\BasicProgram\obj\Debug\BasicProgram.pdb
