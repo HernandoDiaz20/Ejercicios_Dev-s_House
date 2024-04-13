@@ -1,0 +1,6 @@
+C:\DATOS\App_Cap35_al_48\Entidades\bin\Debug\Entidades.dll
+C:\DATOS\App_Cap35_al_48\Entidades\bin\Debug\Entidades.pdb
+C:\DATOS\App_Cap35_al_48\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\DATOS\App_Cap35_al_48\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\DATOS\App_Cap35_al_48\Entidades\obj\Debug\Entidades.dll
+C:\DATOS\App_Cap35_al_48\Entidades\obj\Debug\Entidades.pdb

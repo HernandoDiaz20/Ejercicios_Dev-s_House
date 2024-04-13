@@ -1,0 +1,11 @@
+C:\DATOS\App_Cap35_al_48\Logica\bin\Debug\Logica.dll
+C:\DATOS\App_Cap35_al_48\Logica\bin\Debug\Logica.pdb
+C:\DATOS\App_Cap35_al_48\Logica\bin\Debug\Datos.dll
+C:\DATOS\App_Cap35_al_48\Logica\bin\Debug\Entidades.dll
+C:\DATOS\App_Cap35_al_48\Logica\bin\Debug\Datos.pdb
+C:\DATOS\App_Cap35_al_48\Logica\bin\Debug\Entidades.pdb
+C:\DATOS\App_Cap35_al_48\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\DATOS\App_Cap35_al_48\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\DATOS\App_Cap35_al_48\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\DATOS\App_Cap35_al_48\Logica\obj\Debug\Logica.dll
+C:\DATOS\App_Cap35_al_48\Logica\obj\Debug\Logica.pdb

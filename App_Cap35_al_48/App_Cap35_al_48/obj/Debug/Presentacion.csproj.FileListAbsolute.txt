@@ -1,0 +1,17 @@
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\bin\Debug\App_Cap35_al_48.exe.config
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\bin\Debug\App_Cap35_al_48.exe
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\bin\Debug\App_Cap35_al_48.pdb
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\bin\Debug\Datos.dll
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\bin\Debug\Entidades.dll
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\bin\Debug\Logica.dll
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\bin\Debug\Datos.pdb
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\bin\Debug\Entidades.pdb
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\bin\Debug\Logica.pdb
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\obj\Debug\App_Cap35_al_48.PrincipalForm.resources
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\obj\Debug\App_Cap35_al_48.Properties.Resources.resources
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\obj\Debug\App_Cap35_al_48.exe
+C:\DATOS\App_Cap35_al_48\App_Cap35_al_48\obj\Debug\App_Cap35_al_48.pdb
