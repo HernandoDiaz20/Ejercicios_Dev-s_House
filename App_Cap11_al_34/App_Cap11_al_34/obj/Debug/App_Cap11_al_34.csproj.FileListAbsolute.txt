@@ -1,0 +1,10 @@
+C:\DATOS\App_Cap11_al_34\App_Cap11_al_34\bin\Debug\App_Cap11_al_34.exe.config
+C:\DATOS\App_Cap11_al_34\App_Cap11_al_34\bin\Debug\App_Cap11_al_34.exe
+C:\DATOS\App_Cap11_al_34\App_Cap11_al_34\bin\Debug\App_Cap11_al_34.pdb
+C:\DATOS\App_Cap11_al_34\App_Cap11_al_34\obj\Debug\App_Cap11_al_34.csproj.AssemblyReference.cache
+C:\DATOS\App_Cap11_al_34\App_Cap11_al_34\obj\Debug\App_Cap11_al_34.FormPrincipal.resources
+C:\DATOS\App_Cap11_al_34\App_Cap11_al_34\obj\Debug\App_Cap11_al_34.Properties.Resources.resources
+C:\DATOS\App_Cap11_al_34\App_Cap11_al_34\obj\Debug\App_Cap11_al_34.csproj.GenerateResource.cache
+C:\DATOS\App_Cap11_al_34\App_Cap11_al_34\obj\Debug\App_Cap11_al_34.csproj.CoreCompileInputs.cache
+C:\DATOS\App_Cap11_al_34\App_Cap11_al_34\obj\Debug\App_Cap11_al_34.exe
+C:\DATOS\App_Cap11_al_34\App_Cap11_al_34\obj\Debug\App_Cap11_al_34.pdb
